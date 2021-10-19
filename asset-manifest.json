@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saad-todo/static/css/main.51f7eae3.chunk.css",
+    "main.js": "/saad-todo/static/js/main.b69c3271.chunk.js",
+    "main.js.map": "/saad-todo/static/js/main.b69c3271.chunk.js.map",
+    "runtime-main.js": "/saad-todo/static/js/runtime-main.ea43af65.js",
+    "runtime-main.js.map": "/saad-todo/static/js/runtime-main.ea43af65.js.map",
+    "static/js/2.43a5dd38.chunk.js": "/saad-todo/static/js/2.43a5dd38.chunk.js",
+    "static/js/2.43a5dd38.chunk.js.map": "/saad-todo/static/js/2.43a5dd38.chunk.js.map",
+    "static/js/3.d685ffe8.chunk.js": "/saad-todo/static/js/3.d685ffe8.chunk.js",
+    "static/js/3.d685ffe8.chunk.js.map": "/saad-todo/static/js/3.d685ffe8.chunk.js.map",
+    "index.html": "/saad-todo/index.html",
+    "static/css/main.51f7eae3.chunk.css.map": "/saad-todo/static/css/main.51f7eae3.chunk.css.map",
+    "static/js/2.43a5dd38.chunk.js.LICENSE.txt": "/saad-todo/static/js/2.43a5dd38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea43af65.js",
+    "static/js/2.43a5dd38.chunk.js",
+    "static/css/main.51f7eae3.chunk.css",
+    "static/js/main.b69c3271.chunk.js"
+  ]
+}
